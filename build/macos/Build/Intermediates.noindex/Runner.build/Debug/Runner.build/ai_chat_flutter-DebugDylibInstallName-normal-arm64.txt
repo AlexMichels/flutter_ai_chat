@@ -1,0 +1,1 @@
+@rpath/ai_chat_flutter.debug.dylib
